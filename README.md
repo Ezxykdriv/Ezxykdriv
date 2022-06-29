@@ -3,10 +3,10 @@
 - 🔭 I’m currently working with Java
 - 🌱 I’m currently learning Java as well 😅
 
-<div display="flex">
+<div align="center" display="flex">
   <a href="https://github.com/Ezxykdriv">
-  <img width="450em" height="180px"src="https://github-readme-stats.vercel.app/api?username=Ezxykdriv&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezxykdriv&layout=compact&langs_count=7&theme=react"/>
+  <img width="400em" height="180px"src="https://github-readme-stats.vercel.app/api?username=Ezxykdriv&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img width="400em" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezxykdriv&layout=compact&langs_count=7&theme=react"/>
 </div>
 
   ##
